@@ -1,0 +1,16 @@
+{
+  "name": "up-your-git-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherkade/up-your-git-game.git"
+  },
+  "author": "Christopher Kade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopherkade/up-your-git-game/issues"
+  },
+  "homepage": "https://github.com/christopherkade/up-your-git-game#readme"
+}
